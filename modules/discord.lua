@@ -25,3 +25,5 @@ end
 function module:GetDiscordInvite()
     return discordInvite
 end
+
+return module
